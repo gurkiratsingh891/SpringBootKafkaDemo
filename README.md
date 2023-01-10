@@ -25,4 +25,4 @@ For windows only
 	>demo
 
 	5. Consuming/reading the events from kafka
-.\bin\windows\kafka-console-consumer.bat --topic topic-example --from-beginning --bootstrap-server localhost:9092![image](https://user-images.githubusercontent.com/47685401/211437284-a45bd809-65e8-4e7c-aa1b-37661f20db60.png)
+.\bin\windows\kafka-console-consumer.bat --topic topic-example --from-beginning --bootstrap-server localhost:9092
